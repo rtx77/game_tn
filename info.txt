@@ -1,0 +1,3 @@
+(client_dll) - dll for developing network interaction with the server.
+(sharp) - The main logic of the game on the client.
+(server) - server
